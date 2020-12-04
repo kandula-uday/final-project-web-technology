@@ -1,2 +1,1 @@
-Deployed Link : 
-Madhav Bhaiyya Thopu..Veelaithe Aapu :)
+Deployed Link : https://kandula-uday.github.io/final-project-web-technology/
