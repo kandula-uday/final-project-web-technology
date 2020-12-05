@@ -11,6 +11,7 @@ div.car-pic {
     height: 100%;
     object-fit: cover;
   }
+  /*style the container*/
   div.car-container {
       border: 1px solid black;
       overflow: hidden;
@@ -37,6 +38,7 @@ div.car-pic {
     box-shadow: 2px 2px whitesmoke;
     
   }
+  /* set the height width of image logo*/
   .img-logo {
     height:200px;
     width:200px;
