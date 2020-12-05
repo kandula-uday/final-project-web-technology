@@ -191,6 +191,7 @@ td
 {
     font-family: cursive;
 }
+/* style for signup*/
 #signup
 {
     top: 136px;
@@ -200,6 +201,7 @@ td
    
     text-decoration:none;
 }
+/* signup style with hover*/
 .SignUp:hover
 {
     color: red;
