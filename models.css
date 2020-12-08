@@ -90,6 +90,42 @@ div.car-pic {
     max-width: 250px;
     border-radius: 100px;
 }
+#footer
+{
+    width: 100%;
+    height: 300px;
+    background: #c2c2bb;
+    color: rgb(7, 4, 8);
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    margin-top: 20px;
+     
+}
+.footertext
+{
+    font-size: 30px;
+}
+.contact-info{
+    padding: 10px;
+}
+table {
+    padding: 10px;
+}
+iframe {
+    float: right;
+    margin-right: 100px;
+}
+td a {
+    color: green;
+}
+td a:hover{
+    color: palegreen;
+    }
+
+    td{
+      text-align: center;
+      padding-right: 40px;
+    }
 
 @media screen and (max-width: 500px) {
   .header a {
